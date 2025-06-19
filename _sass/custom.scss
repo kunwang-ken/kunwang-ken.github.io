@@ -1,0 +1,37 @@
+/* For debug */
+/* #main { */
+/*   border: 2px dashed limegreen; */
+/* } */
+/* .page { */
+/*   border: 2px dashed orange; */
+/* } */
+/* .page__inner-wrap { */
+/*   border: 2px dashed blue; */
+/* } */
+/* .page__content { */
+/*   border: 1px solid red; */
+/* } */
+
+/* No button for theme-toggle */
+#theme-toggle {
+  display: none !important;
+}
+
+#main {
+  max-width: 1400px !important;
+  padding: 0 2em;
+  margin: 0 auto;
+}
+
+.page__inner-wrap {
+  width: auto !important;
+  max-width: none !important;
+  margin-left: -0em !important;  
+  margin-right: -14em !important;  // 越过 .page 右侧 suffix 限制
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.page__content {
+  max-width: 100% !important;
+}
