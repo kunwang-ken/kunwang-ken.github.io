@@ -16,26 +16,36 @@ My research focuses on **Machine Learning Security**, particularly in developing
 
 ## Publications
 
-[From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://www.computer.org/csdl/proceedings-article/sp/2025/223600e277/26hiWdqEiis) \\
-_**Kun Wang**, Meng Chen, Li Lu, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen_ \\
-_IEEE S&P 2025_ &nbsp;[PDF](files/fosu-sp25-wang-kun.pdf)
+<span class="publication-badge">S&amp;P\'25</span>
+<a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600e277/26hiWdqEiis" class="paper-link">
+From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era
+</a> \\
+<span class="author-name">Kun Wang</span>, Meng Chen, Li Lu, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen. _IEEE S&P 2025_\\
+[PDF](files/fosu-sp25-wang-kun.pdf)&nbsp;
+[Dataset](#)
 
 
-
-[FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition](https://www.usenix.org/conference/usenixsecurity24/presentation/wang-kun) \\
-_**Kun Wang**, Xiangyu Xu, Li Lu, Zhongjie Ba, Feng Lin, Kui Ren_ \\
-_USENIX Security 2024_ &nbsp;
-[PDF](files/fraudwhistler-uss24-wang-kun.pdf) &nbsp;
-[Code](https://github.com/kunwang-ken/FraudWhistler) &nbsp;
+<span class="publication-badge">USS\'25</span>
+<a href="https://www.usenix.org/conference/usenixsecurity24/presentation/wang-kun" class="paper-link">
+FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition
+</a>\\
+<span class="author-name">Kun Wang</span>, Xiangyu Xu, Li Lu, Zhongjie Ba, Feng Lin, Kui Ren. _USENIX Security 2024_\\
+[PDF](files/fraudwhistler-uss24-wang-kun.pdf)&nbsp;
+[Code](https://github.com/kunwang-ken/FraudWhistler)&nbsp;
+[Talk](https://youtu.be/85c62XWUcRI)&nbsp;
 [Artifact Appendix](files/fraudwhistler-usenixsecurity24-appendix-wang-kun.pdf)\\
 📦 *Artifact Badge: Available, Functional, Results Reproduced* 
 
 
 
-Education
-------
+## Education
+* **Ph.D. in Cyberspace Science and Technology**, *College of Computer Science and Technology, Zhejiang University*, Sep. 2021 – Present, *Hangzhou, China*
+* **B.Eng. in Information Security**, *College of Computer Science and Technology, Zhejiang University*, Sep. 2017 – Jun. 2021, *Hangzhou, China*
 
 
-
-Services
-------
+## Services
+- USENIX Security Artifact Evaluation Committee Member, 2025
+- Assisted in reviewing submissions for INTERSPEECH, 2025
+- Assisted in reviewing submissions for ACM MM, 2024
+- Assisted in reviewing submissions for IEEE INFOCOM, 2024, 2023
+- Assisted in reviewing submissions for IEEE ICASSP, 2023

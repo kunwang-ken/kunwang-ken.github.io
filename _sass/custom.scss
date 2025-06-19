@@ -43,3 +43,32 @@
 .page__content a:hover {
   text-decoration: underline;
 }
+
+/* Custom publication badge style */
+.publication-badge {
+  display: inline-block;
+  font-size: 0.95em;
+  font-family: inherit;
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  padding: 1px 8px 2px;   /* 顶部 padding 稍小，底部略大 */
+  font-weight: 600;
+  color: #333;
+  line-height: 1;
+  vertical-align: baseline;   /* 或尝试 middle、baseline 看对齐感 */
+  position: relative;
+  top: 0px;   
+}
+
+a.paper-link {
+  color: #005BAC;         /* 浙大蓝 */
+  text-decoration: none;
+  font-weight: 550;
+}
+
+a.paper-link:hover {
+  text-decoration: underline;
+}
+.author-name {
+  font-weight: 550;  /* 比正常字略粗，比 bold 轻盈 */
+}
