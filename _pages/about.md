@@ -39,8 +39,10 @@ FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detecti
 
 
 ## Education
-* **Ph.D. in Cyberspace Science and Technology**, *College of Computer Science and Technology, Zhejiang University*, Sep. 2021 – Present, *Hangzhou, China*
-* **B.Eng. in Information Security**, *College of Computer Science and Technology, Zhejiang University*, Sep. 2017 – Jun. 2021, *Hangzhou, China*
+* Ph.D. in Cyberspace Science and Technology, College of Computer Science and Technology, Zhejiang University\\
+_Sep. 2021 – Present, Hangzhou, China_
+* B.Eng. in Information Security, College of Computer Science and Technology, Zhejiang University\\
+_Sep. 2017 – Jun. 2021, Hangzhou, China_
 
 
 ## Services
