@@ -32,7 +32,7 @@ FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detecti
 <span class="author-name">Kun Wang</span>, Xiangyu Xu, Li Lu, Zhongjie Ba, Feng Lin, Kui Ren. _USENIX Security 2024_\\
 [PDF](files/fraudwhistler-uss24-wang-kun.pdf)&nbsp;
 [Code](https://github.com/kunwang-ken/FraudWhistler)&nbsp;
-[Talk](https://youtu.be/85c62XWUcRI)&nbsp;
+[Presentation](https://youtu.be/85c62XWUcRI)&nbsp;
 [Artifact Appendix](files/fraudwhistler-usenixsecurity24-appendix-wang-kun.pdf)\\
 📦 *Artifact Badge: Available, Functional, Results Reproduced* 
 
