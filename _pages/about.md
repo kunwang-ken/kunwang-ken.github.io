@@ -25,7 +25,7 @@ From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era
 [Dataset](#)
 
 
-<span class="publication-badge">USS\'25</span>
+<span class="publication-badge">USS\'24</span>
 <a href="https://www.usenix.org/conference/usenixsecurity24/presentation/wang-kun" class="paper-link">
 FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition
 </a>\\
