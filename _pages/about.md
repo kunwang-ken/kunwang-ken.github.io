@@ -48,7 +48,7 @@ _Sep. 2017 – Jun. 2021, Hangzhou, China_
 ## Services
 - IEEE Transactions on Information Forensics & Security (TIFS) Reviewer
 - USENIX Security Artifact Evaluation Committee Member, 2025
-- Assisted in reviewing submissions for INTERSPEECH, 2025
+- Assisted in reviewing submissions for AAAI AAAI, INTERSPEECH, 2025
 - Assisted in reviewing submissions for ACM MM, 2024
 - Assisted in reviewing submissions for IEEE INFOCOM, 2024, 2023
 - Assisted in reviewing submissions for IEEE ICASSP, 2023
