@@ -17,7 +17,7 @@ My research focuses on **Machine Learning Security**, particularly in developing
 ## Publications
 
 <span class="publication-badge">S&amp;P\'25</span>
-<a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600e277/26hiWdqEiis" class="paper-link">
+<a href="https://ieeexplore.ieee.org/document/11023497" class="paper-link">
 From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era
 </a> \\
 <span class="author-name">Kun Wang</span>, Meng Chen, Li Lu, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen. _IEEE S&P 2025_\\
@@ -33,7 +33,7 @@ FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detecti
 [PDF](files/fraudwhistler-uss24-wang-kun.pdf)&nbsp;
 [Code](https://github.com/kunwang-ken/FraudWhistler)&nbsp;
 [Presentation](https://youtu.be/85c62XWUcRI)&nbsp;
-[Artifact Appendix](files/fraudwhistler-usenixsecurity24-appendix-wang-kun.pdf)\\
+[Artifact Appendix](files/fraudwhistler-uss24-appendix-wang-kun.pdf)\\
 📦 *Artifact Badge: Available, Functional, Results Reproduced* 
 
 
